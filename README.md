@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashvantHange
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python project
+- 🌱  I am Pytjon Expert.
+- 💞️ I’m looking to collaborate on Cybersecurity Projects
 - 📫 How to reach me ...on whats'app 9921411446
 
 <!---
