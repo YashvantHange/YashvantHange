@@ -1,43 +1,40 @@
-```markdown
-# 👋 Hi there, I'm Yashvant Hange
+# 👋 Hi, I'm Yashvant Hange
 
 🚀 **AI Engineer | Cybersecurity Researcher | Cloud & Software Developer**
 
-I'm passionate about building intelligent, scalable, and security-focused systems that combine the power of AI, cloud computing, and cybersecurity.
+Passionate about building intelligent, secure, and scalable systems by combining **Artificial Intelligence, Cybersecurity, Cloud Computing, and Software Engineering**.
 
-## 🔭 What I'm Working On
-- 🤖 AI Agents and Agentic Systems
-- 🛡️ Cybersecurity Automation & Threat Detection
-- ☁️ AWS Cloud Architecture and Security
-- 🐍 Python-based Applications and APIs
-- 🔍 Vulnerability Management & OVAL Generation
-- 🧠 Large Language Models (LLMs) and AI-powered Security Solutions
+## 🛠️ Tech Stack
+- 💻 Languages: Python, SQL, Bash
+- 🤖 AI & ML: LLMs, AI Agents, Prompt Engineering
+- 🛡️ Cybersecurity: Penetration Testing, Vulnerability Assessment, Threat Detection
+- ☁️ Cloud: AWS
+- 🌐 Backend: Flask, REST APIs
+- 🗄️ Databases: SQL, Pinecone
+
+## 🔭 Current Focus
+- Building AI-powered cybersecurity solutions
+- Developing autonomous agentic systems
+- Cloud-native application development
+- Security automation and vulnerability management
 
 ## 🌱 Currently Learning
-- Machine Learning & Deep Learning
-- Advanced AWS Services
-- Distributed AI Systems
-- Autonomous Security Operations
+- Advanced AI/ML
+- Distributed Systems
+- AWS Architecture
+- Large-Scale Agentic Workflows
 
-## 💡 Technical Skills
-- **Languages:** Python, Bash, SQL
-- **Cloud:** AWS
-- **Cybersecurity:** Penetration Testing, Vulnerability Assessment, SIEM, Threat Detection
-- **AI/ML:** LLMs, AI Agents, Automation
-- **Backend:** Flask, REST APIs
-- **Databases & Vector Stores:** Pinecone, SQL
-
-## 🤝 Open to Collaborate On
+## 🤝 Looking to Collaborate On
+- AI Projects
 - Cybersecurity Research
-- AI & LLM Projects
-- Open Source Security Tools
-- Cloud-Native Applications
-- Automation Frameworks
+- Open Source Contributions
+- Python Development
+- Cloud & Automation Solutions
 
-## 📜 Certifications
+## 🏆 Certifications
 - ✅ CompTIA Security+
 - ✅ Certified Ethical Hacker (CEH)
-- ✅ AWS Solutions Architect (In Progress)
+- ✅ AWS Solutions Architect *(Pursuing)*
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/yashvanthange/
@@ -45,5 +42,4 @@ I'm passionate about building intelligent, scalable, and security-focused system
 
 ---
 
-> *"Building secure, intelligent, and scalable technology for the future."*
-```
+> **"Turning ideas into secure and intelligent solutions."** 🚀
